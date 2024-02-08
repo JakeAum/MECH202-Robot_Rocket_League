@@ -1,5 +1,6 @@
 {
     "board": "arduino:avr:uno",
     "programmer": "avrisp",
-    "sketch": "arduino_main.ino"
+    "sketch": "MECH202-Robot_Rocket_League.ino",
+    "port": "COM7"
 }
